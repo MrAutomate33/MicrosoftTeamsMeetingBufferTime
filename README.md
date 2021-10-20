@@ -1,4 +1,4 @@
-# Microsoft Teams Meeting Buffer Time
+# Microsoft Teams - Teams Meeting Buffer Time
 Want some time to breathe after your back to back meetings?
 
 ## General
