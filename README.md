@@ -11,9 +11,9 @@ _The flow will only be triggerd for Microsoft Teams meetings._
 * Office 365 Outlook
 
 ## Setup
-1. Please download the [MicrosoftTeamsMeetingBufferTime.zip](https://github.com/MrAutomate33/MicrosoftTeamsMeetingBufferTime/raw/main/MicrosoftTeamsMeetingBufferTime.zip).
+1. Please download the [MicrosoftTeamsMeetingBufferTime.zip](/../../raw/main/MicrosoftTeamsMeetingBufferTime.zip).
 2. Go to https://emea.flow.microsoft.com/manage/flows/import.
-3. Upload and import the MicrosoftTeamsMeetingBufferTime.zip file. [Extra help for importing Power Automate projects](/../../../GeneralFiles/blob/main/CreateConnectionsInImport.md).
+3. Upload and import the MicrosoftTeamsMeetingBufferTime.zip file. [Extra help for importing Power Automate projects](/../../../MrAutomate33/blob/main/files/CreateConnectionsInImport.md).
 4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 2 locations).
 5. Set your desired buffer time in 'Buffer duration'.
 6. Save.
