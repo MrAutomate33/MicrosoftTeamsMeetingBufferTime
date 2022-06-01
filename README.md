@@ -18,3 +18,6 @@ _The flow will only be triggerd for Microsoft Teams meetings._
 5. Set your desired buffer time in `Buffer duration`.
 6. Save.
 7. Don't forget to turn on the Power automate flow.
+
+## Disclaimer
+*This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.*
